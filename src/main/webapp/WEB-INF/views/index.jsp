@@ -33,7 +33,7 @@
         <nav class="website-nav">
           <ul>
             <li><a class="home-link" href="learnbook.gq/">Home</a></li>
-            <li><a href="learnbook.gq/About">About</a></li>
+            <li><a href="/About">About</a></li>
           </ul>
         </nav>
       </header>
