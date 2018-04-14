@@ -4,8 +4,8 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>JavaSpringWebApp</title>
-    <meta name="description" content="" />
+    <title>Learn Book</title>
+    <meta name="description" content="New Way of Learning." />
 
     <spring:url value="/resources/gradients.css" var="gradientsCss" />
     <spring:url value="/resources/styles.css" var="stylesCss" />
@@ -32,10 +32,8 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="https://aws.amazon.com/">Home</a></li>
-            <li><a href="https://aws.amazon.com/what-is-cloud-computing/">About</a></li>
-            <li><a href="https://aws.amazon.com/solutions/">Services</a></li>
-            <li><a href="https://aws.amazon.com/contact-us/">Contact</a></li>
+            <li><a class="home-link" href="https://http://learnbook.gq/">Home</a></li>
+            <li><a href="https://http://learnbook.gq/About">About</a></li>
           </ul>
         </nav>
       </header>
@@ -50,7 +48,7 @@
     </div>
 
     <footer>
-      <p class="footer-contents">Designed and developed with AWS by abhijeet.</p>
+      <p class="footer-contents">Designed and developed with AWS by Abhijeet.</p>
     </footer>
 
     <script src={$setBackgroundJs}"></script>
