@@ -32,8 +32,8 @@
       <header>
         <nav class="website-nav">
           <ul>
-            <li><a class="home-link" href="https://http://learnbook.gq/">Home</a></li>
-            <li><a href="https://http://learnbook.gq/About">About</a></li>
+            <li><a class="home-link" href="https://learnbook.gq/">Home</a></li>
+            <li><a href="https://learnbook.gq/About">About</a></li>
           </ul>
         </nav>
       </header>
